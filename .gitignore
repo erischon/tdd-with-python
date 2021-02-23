@@ -2,3 +2,5 @@ db.sqlite3
 geckodriver.log
 venv/
 superlists/__pycache__/
+lists/__pycache__/
+migrations/
